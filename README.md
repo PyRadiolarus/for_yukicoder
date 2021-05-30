@@ -9,4 +9,4 @@ Python3系、またはPyPy3で記述・実行しています。
 このリポジトリについての質問がありましたら、[Twitter](https://www.twitter.com/4voltex/)までご連絡ください。
 
 
-Last updated：2021-05-17(JST)
+Last updated：2021-05-30(JST)
