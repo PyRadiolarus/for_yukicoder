@@ -1,4 +1,4 @@
-# for_yukicoder ![issues](https://img.shields.io/github/issues/PyRadiolarus/for_yukicoder?style=plastic) ![forks](https://img.shields.io/github/forks/PyRadiolarus/for_yukicoder?style=plastic) ![stars](https://img.shields.io/github/stars/PyRadiolarus/for_yukicoder?style=plastic) ![license](https://img.shields.io/github/license/PyRadiolarus/for_yukicoder?style=plastic) ![twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F4voltex%2F)
+# for_yukicoder ![issues](https://img.shields.io/github/issues/PyRadiolarus/for_yukicoder?style=plastic) ![forks](https://img.shields.io/github/forks/PyRadiolarus/for_yukicoder?style=plastic) ![stars](https://img.shields.io/github/stars/PyRadiolarus/for_yukicoder?style=plastic) ![twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F4voltex%2F)
 
 [yukicoder](https://yukicoder.me/)で書いたコードを置いているリポジトリです。
 
