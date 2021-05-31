@@ -8,8 +8,8 @@ Python3系、またはPyPy3で記述・実行しています。
 
 このリポジトリについての質問がありましたら、[Twitter](https://www.twitter.com/4voltex/)までご連絡ください。
 
-＜内容＞
-・SimpleSelection&#8412;[初心者のためのガイド-yukicoder](https://yukicoder.me/wiki/guide)で、簡単な問題(★)として示されているものを収載しています。
+＜内容＞<br>
+・SimpleSelection ー [初心者のためのガイド-yukicoder](https://yukicoder.me/wiki/guide)で、簡単な問題(★)として示されているものを収載しています。
 
 Last updated：2021-06-01(JST)
 
