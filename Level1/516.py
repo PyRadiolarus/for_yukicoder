@@ -2,7 +2,9 @@
 from sys import stdin
 stdin = open("../stdin.txt")
 
-st = stdin.readline().rstrip()
-nd = stdin.readline().rstrip()
-rd = stdin.readline().rstrip()
-print(st,nd,rd)
+S = [stdin.readline().rstrip() for i in range(3)]
+c = S.count("RED")
+if c < 2:
+    print("BLUE")
+else:
+    print("RED")
