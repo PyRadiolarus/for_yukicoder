@@ -1,4 +1,5 @@
-# for_yukicoder [![issues](https://img.shields.io/github/issues/PyRadiolarus/for_yukicoder?style=plastic)](https://github.com/PyRadiolarus/for_yukicoder/issues) [![forks](https://img.shields.io/github/forks/PyRadiolarus/for_yukicoder?style=plastic)](https://github.com/PyRadiolarus/for_yukicoder/network/members) [![stars](https://img.shields.io/github/stars/PyRadiolarus/for_yukicoder?style=plastic)](https://github.com/PyRadiolarus/for_yukicoder/stargazers) ![twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F4voltex%2F)
+# for_yukicoder [![issues](https://img.shields.io/github/issues/PyRadiolarus/for_yukicoder?style=plastic)](https://github.com/PyRadiolarus/for_yukicoder/issues) [![forks](https://img.shields.io/github/forks/PyRadiolarus/for_yukicoder?style=plastic)](https://github.com/PyRadiolarus/for_yukicoder/network/members) [![stars](https://img.shields.io/github/stars/PyRadiolarus/for_yukicoder?style=plastic)](https://github.com/PyRadiolarus/for_yukicoder/stargazers) <a href="https://twitter.com/4voltex?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-lang="en" data-show-screen-name="false" data-show-count="false">Follow @4voltex</a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [yukicoder](https://yukicoder.me/)で書いたコードを置いているリポジトリです。
 
