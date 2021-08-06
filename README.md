@@ -14,5 +14,3 @@ Python3系、またはPyPy3で記述・実行しています。
 
 Last updated：2021-08-07(JST)
 
-
-<a href="https://twitter.com/4voltex?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-lang="en" data-show-count="false">Follow @4voltex</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
